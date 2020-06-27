@@ -5,4 +5,5 @@ Author: Bing
 
 This is a side project built after learning JavaFX.
 
-I do not own any of these images. These images belongs to Game Freak.
+I do not own any of these images. These images belongs to © Nintendo/Creatures Inc./GAME FREAK Inc.
+
