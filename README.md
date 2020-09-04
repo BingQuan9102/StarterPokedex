@@ -5,4 +5,4 @@ This is a side project built after learning JavaFX.
 
 I do not own any of these images. These images belongs to © Nintendo/Creatures Inc./GAME FREAK Inc.
 
-![image-20200904102356312](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20200904102356312.png)
+![image-20200904102356312](https://raw.githubusercontent.com/BingQuanChua/starter-pokedex/master/Image/Capture.PNG)
