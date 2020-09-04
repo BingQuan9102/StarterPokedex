@@ -5,4 +5,12 @@ This is a side project built after learning JavaFX.
 
 I do not own any of these images. These images belongs to © Nintendo/Creatures Inc./GAME FREAK Inc.
 
+<h2>
+  Screenshots
+</h2>
 ![image-20200904102356312](https://raw.githubusercontent.com/BingQuanChua/starter-pokedex/master/Image/Capture.PNG)
+
+<h2>
+  How to run the program
+</h2>
+Run PokedexDemo.java
