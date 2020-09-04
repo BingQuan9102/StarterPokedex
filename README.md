@@ -8,6 +8,7 @@ I do not own any of these images. These images belongs to © Nintendo/Creatures 
 <h2>
   Screenshots
 </h2>
+
 ![image-20200904102356312](https://raw.githubusercontent.com/BingQuanChua/starter-pokedex/master/Image/Capture.PNG)
 
 <h2>
