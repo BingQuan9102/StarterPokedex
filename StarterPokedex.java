@@ -23,7 +23,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.io.File;
 
-public class PokedexDemo extends Application {
+public class StarterPokedex extends Application {
 
 	// Declare an arraylist of Strings for holding pokemon names
 	private ArrayList<String> pkmNames = new ArrayList<>();
